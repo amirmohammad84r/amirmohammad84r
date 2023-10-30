@@ -1,5 +1,15 @@
-<div align="center">
-  <h1>Hello its Amir Mohammad</h1>
-  <h3>I'm good at front-end programming</h3>
-  <h3>I am fluent in html, css, js and i learning react</h3>
-</div>
+# Hello From junior FrontEnd Developer
+---
+```
+myInfo = {
+  name = Amir Mohammad Rezaie,
+  age = 18,
+  field = frontend,
+  skills = `html css js`,
+  learning = `react`,
+  working = false,
+}
+```
+---
+## Ways to contact me
+instagram,telegram -> amir_mohammad84r
