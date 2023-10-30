@@ -1,6 +1,6 @@
 # Hello From junior FrontEnd Developer
 ---
-```
+``` javascript
 myInfo = {
   name = Amir Mohammad Rezaie,
   age = 18,
