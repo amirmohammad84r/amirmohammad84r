@@ -1,13 +1,13 @@
 # Hello From junior FrontEnd Developer
 ---
 ``` javascript
-myInfo = {
-  name = Amir Mohammad Rezaie,
-  age = 18,
-  field = frontend,
-  skills = `html css js`,
-  learning = `react`,
-  working = false,
+const myInfo = {
+  name: Amir Mohammad Rezaie,
+  age: 18,
+  field: `frontend`,
+  skills: `html css js`,
+  learning: `react`,
+  working: false,
 }
 ```
 ---
