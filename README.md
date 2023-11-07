@@ -12,4 +12,5 @@ const myInfo = {
 ```
 ---
 ## Ways to contact me
-instagram,telegram -> amir_mohammad84r
+instagram -> <a href="https://instagram.com/amir_mohammad84r?igshid=cndmYWh1NnR1cHJj">amir_mohammad84r</a>
+telegram -> <a href="http://telegram.me/amir_mohammad84r">amir_mohammad84r</a>
