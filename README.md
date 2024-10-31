@@ -1,16 +1,14 @@
-# Hello From junior FrontEnd Developer
+# Hello From junior Android Developer
 ---
-``` javascript
-const myInfo = {
-  name: Amir Mohammad Rezaie,
-  age: 18,
-  field: `frontend`,
-  skills: `html css js`,
-  learning: `react`,
-  working: false,
+``` Kotlin
+data class myInfo = {
+  val name = "Amir Mohammad Rezaie",
+  val age = 18,
+  val field = "Android Developer",
+  val skills = "Kotlin,Jetpack,MVVM,Solid,Flow,Roomdb,...",
+  val job = false,
 }
 ```
 ---
 ## Ways to contact me
-instagram -> <a href="https://instagram.com/amirmohammad84r?igshid=cndmYWh1NnR1cHJj">amirmohammad84r</a><br>
 telegram -> <a href="http://telegram.me/amirmohammad84r">amirmohammad84r</a>
