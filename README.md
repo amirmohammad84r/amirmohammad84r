@@ -1,12 +1,12 @@
-# Hello From junior Android Developer
+# backend with nestjs
 ---
-``` Kotlin
+``` typescript
 data class myInfo = {
-  val name = "Amir Mohammad Rezaie",
-  val age = 18,
-  val field = "Android Developer",
-  val skills = "Kotlin,Jetpack,MVVM,Solid,Flow,Roomdb,...",
-  val job = false,
+  const name : "Amir Mohammad Rezaie",
+  const age : 20,
+  const field : "backend nestjs",
+  const skills : "javascript,typescript,prisma,typeorm,rabbitmq,resis,test",
+  const job : kind of,
 }
 ```
 ---
