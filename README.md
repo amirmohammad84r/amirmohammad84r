@@ -6,7 +6,6 @@ data class myInfo = {
   const age : 20,
   const field : "backend nestjs",
   const skills : "javascript,typescript,prisma,typeorm,rabbitmq,resis,test",
-  const job : kind of,
 }
 ```
 ---
